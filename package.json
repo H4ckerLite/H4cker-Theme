@@ -1,0 +1,32 @@
+{
+    "name": "h4ckertheme",
+    "displayName": "H4ckerTheme",
+    "description": "Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/icono.png",
+    "author": {
+        "name": "Cesar Arias",
+        "email": "cesarariasrdguez@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/H4ckerLite/H4cker-Theme.git",
+        "type": "git"
+        
+    },
+    "publisher": "H4cker"
+}
